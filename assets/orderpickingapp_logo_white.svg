@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 448.67 517.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-5 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-9 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        font-family: Montserrat-Light, Montserrat;
+        font-weight: 300;
+      }
+
+      .cls-7, .cls-8 {
+        font-size: 102.43px;
+      }
+
+      .cls-12 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-13 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-14 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        font-family: Montserrat-Bold, Montserrat;
+        font-weight: 700;
+      }
+
+      .cls-16 {
+        isolation: isolate;
+      }
+
+      .cls-17 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-18 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-19 {
+        letter-spacing: -.01em;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" width="440" height="520"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-1" x="139.76" y="3.54" width="160.48" height="215.28"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-1" x="-32768" y="-32247" width="65535" height="65535"/>
+    </clipPath>
+  </defs>
+  <text class="cls-8" transform="translate(34.01 333.21)"><tspan class="cls-19" x="0" y="0">O</tspan><tspan class="cls-3" x="85.12" y="0">R</tspan><tspan class="cls-18" x="158.26" y="0">D</tspan><tspan class="cls-10" x="241.53" y="0">E</tspan><tspan x="309.04" y="0">R</tspan></text>
+  <text class="cls-8" transform="translate(6.35 420.18)"><tspan class="cls-2" x="0" y="0">P</tspan><tspan class="cls-19" x="72.83" y="0">I</tspan><tspan class="cls-14" x="105.09" y="0">C</tspan><tspan class="cls-5" x="178.23" y="0">K</tspan><tspan class="cls-15" x="250.96" y="0">I</tspan><tspan class="cls-18" x="282.92" y="0">N</tspan><tspan class="cls-11" x="364.35" y="0">G</tspan></text>
+  <g class="cls-4">
+    <text class="cls-7" transform="translate(118.08 507.21)"><tspan class="cls-17" x="0" y="0">A</tspan><tspan class="cls-9" x="68.83" y="0">P</tspan><tspan x="138.9" y="0">P</tspan></text>
+  </g>
+  <g class="cls-12">
+    <g class="cls-16">
+      <g class="cls-13">
+        <path class="cls-6" d="m225.14,118.58v-26.17l18.3-8.49v26.4l-18.3,8.26Zm-28.35-34.66l18.3,8.49v26.4l-18.3-8.49v-26.4Zm23.33-15.26l16.35,7.4-16.35,7.63-16.36-7.4,16.36-7.63Zm30.53,2.84l-28.35-13.08c-1.32-.66-2.84-.66-4.13,0l-28.35,13.08c-1.75.86-2.84,2.61-2.84,4.6v37.3c0,1.95,1.09,3.7,2.84,4.6l28.35,13.05c.66.23,1.32.43,2.18.43s1.52-.23,2.18-.43l28.35-13.08c1.75-.86,2.84-2.61,2.84-4.59v-37.3c-.23-1.95-1.32-3.7-3.08-4.56"/>
+        <path class="cls-6" d="m267.43,160.68c0,2.61-2.18,4.79-4.79,4.79h-85.28c-2.61,0-4.79-2.18-4.79-4.79V28.98c0-2.61,2.18-4.79,4.79-4.79h85.28c2.61,0,4.79,2.18,4.79,4.79v131.7Zm-47.31,40.15c-5.88,0-10.9-4.79-10.9-10.67s4.79-10.67,10.9-10.67,10.67,4.79,10.67,10.67-4.79,10.67-10.67,10.67M271.36,7.6h-102.49c-7.2,0-12.85,5.68-12.85,12.85v181.46c0,7.2,5.68,12.85,12.85,12.85h102.26c7.2,0,12.85-5.68,12.85-12.85V20.45c.23-7.17-5.65-12.85-12.62-12.85"/>
+      </g>
+    </g>
+  </g>
+</svg>
